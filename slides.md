@@ -28,3 +28,11 @@ drawings:
 ---
 
 # Flow lookup DNS resolver
+
+---
+class: text-center
+layout: center
+---
+
+# Thanks
+@andikadeveloper
