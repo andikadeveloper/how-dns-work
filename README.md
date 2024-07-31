@@ -1,11 +1,4 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+# How DNS Work?
+A repository for **Refactory Engineering** presentation about how DNS works.
 
-To start the slide show:
-
-- `npm install`
-- `npm run dev`
-- visit <http://localhost:3030>
-
-Edit the [slides.md](./slides.md) to see the changes.
-
-Learn more about Slidev at the [documentation](https://sli.dev/).
+Link to the presentation: [How DNS Work?](https://andikadeveloper-how-dns-work.vercel.app)
