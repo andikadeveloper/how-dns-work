@@ -15,15 +15,15 @@ drawings:
 
 ---
 
+# Basic DNS resolver
+
+---
+
 # IP Address
 
 ---
 
 # Domain name
-
----
-
-# Basic DNS resolver
 
 ---
 
