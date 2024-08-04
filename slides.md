@@ -19,10 +19,6 @@ drawings:
 
 ---
 
-# IP Address
-
----
-
 # Domain name
 
 ---
